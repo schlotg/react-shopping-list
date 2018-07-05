@@ -1,7 +1,7 @@
 # React Shopping List
 React version of the Viage Shopping List App
 
-You can run directly [here](https://schlotg.github.io/react-shopping-list/index.html#/)
+You can run directly [here](https://schlotg.github.io/angular-shopping-list/home)
 
 To find out more about Viage go [here](https://github.com/schlotg/viage)
 
